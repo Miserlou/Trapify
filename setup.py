@@ -14,7 +14,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='trapify',
-    version='0.1.1',
+    version='0.1.2',
     packages=['trapify'],
     install_requires=required,
     include_package_data=True,
